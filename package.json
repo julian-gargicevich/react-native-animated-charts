@@ -1,6 +1,6 @@
 {
   "name": "@rainbow-me/animated-charts",
-  "version": "1.0.0-alpha.6",
+  "version": "1.0.0-julian",
   "description": "The library provides a set of components and helpers for building complex and beautiful animated linear (only - for now) charts. It's a part of the [Rainbow.me project](https://rainbow.me/).",
   "main": "src/index.js",
   "scripts": {
@@ -36,10 +36,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rainbow-me/react-native-animated-charts.git"
+    "url": "git+https://github.com/julian-gargicevich/react-native-animated-charts.git"
   },
   "bugs": {
-    "url": "https://github.com/rainbow-me/react-native-animated-charts/issues"
+    "url": "https://github.com/julian-gargicevich/react-native-animated-charts/issues"
   },
-  "homepage": "https://github.com/rainbow-me/react-native-animated-charts#readme"
+  "homepage": "https://github.com/julian-gargicevich/react-native-animated-charts#readme"
 }
